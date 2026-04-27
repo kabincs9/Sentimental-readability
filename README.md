@@ -6,7 +6,7 @@
 
 A clean Python program that analyzes any English text and tells you the **U.S. school grade level** needed to understand it.
 
-## ✨ Overview
+# ✨ Overview
 
 This program uses the **Coleman-Liau Index** to calculate the readability of a text. It counts letters, words, and sentences, then outputs the approximate grade level required to comfortably read the text.
 
