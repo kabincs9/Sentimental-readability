@@ -28,7 +28,7 @@ text- ✅ Handles punctuation, spaces, and multiple sentences properly
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/readability.git
+git clone https://github.com/kabincs9/readability.git
 cd readability
 
 # Run the program
