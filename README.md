@@ -43,7 +43,7 @@ Another Example:
 textIt is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 Output:
 textGrade 12
-🧠 What I Learned
+🧠 What did I Learned
 
 Text processing and character analysis in Python
 Counting letters, words, and sentences accurately
